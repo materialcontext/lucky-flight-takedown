@@ -58,6 +58,6 @@
     "./scripts/init.js"
   ],
   "url": "https://github.com/materialcontext/lucky-flight-takedown",
-  "manifest": "https://github.com/materialcontext/lucky-flight-takedown/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/materialcontext/lucky-flight-takedown/main/module.json",
   "download": "https://github.com/materialcontext/lucky-flight-takedown/archive/refs/heads/main.zip"
 }
